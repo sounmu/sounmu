@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![sounmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sounmu&show_icons=true&theme=radical)
+![sounmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sounmu&show_icons=true&count_private=true )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sounmu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sounmu&layout=compact&exclude_repo=ku_cose221_Backup,ku_cose215_Backup,ku_cose215,ku_cose101)
 
 <!--
 **sounmu/sounmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
