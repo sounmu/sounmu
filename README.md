@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sounmu&show_icons=true&count_private=true" alt="sounmu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sounmu&layout=compact&exclude_repo=ku_cose221_Backup,ku_cose215_Backup,ku_cose215,ku_cose101" alt="Top Langs" />
-</div>
+<span>
+  <img src = "https://github-readme-stats.vercel.app/api?username=sounmu&count_private=true&show_icons=true&theme=discord_old_blurple"height= 150px/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sounmu&layout=compact&count_private=true&theme=discord_old_blurple" height= 150px/> 
+</span>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sounmu)](https://solved.ac/sounmu)
 
