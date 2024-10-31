@@ -2,6 +2,8 @@
 
 ![sounmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sounmu&show_icons=true&count_private=true )
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sounmu)](https://solved.ac/sounmu)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sounmu&layout=compact&exclude_repo=ku_cose221_Backup,ku_cose215_Backup,ku_cose215,ku_cose101)
 
 <!--
