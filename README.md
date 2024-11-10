@@ -4,7 +4,7 @@
 
 <span>
   <img src = "https://github-readme-stats.vercel.app/api?username=sounmu&count_private=true&show_icons=true&theme=discord_old_blurple"height= 150px/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sounmu&layout=compact&exclude_repo=ku_cose215_Backup,ku_cose215,ku_cose101,ku_cose221_Backup,24-2-channeltalk-hackathon&theme=discord_old_blurple" height= 150px/> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sounmu&layout=compact&exclude_repo=ku_cose215_Backup,ku_cose215,ku_cose101,ku_cose221_Backup,24-2-channeltalk-hackathon,Java-Basics&theme=discord_old_blurple" height= 150px/> 
 </span>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sounmu)](https://solved.ac/sounmu)
