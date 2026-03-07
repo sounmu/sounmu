@@ -3,7 +3,7 @@
 <div align="center">
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=sounmu&count_private=true&show_icons=true&theme=discord_old_blurple" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sounmu&show_icons=true&count_private=true&theme=discord_old_blurple" height="150px" />
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=sounmu" height="150px" />
 </span>
 
