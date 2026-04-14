@@ -13,9 +13,9 @@ I like building things, running them myself, and putting them out in the open.
 
 ## 🛠️ Tech I Work With
 
-**Backend** Rust · Axum · Python · FastAPI · PostgreSQL
-**Frontend** Next.js · React · TypeScript · Tailwind CSS
-**Infra** Docker · Nginx · Cloudflare · Oracle Cloud · Linux
+- **Backend** Rust · Axum · Python · FastAPI · PostgreSQL
+- **Frontend** Next.js · React · TypeScript · Tailwind CSS
+- **Infra** Docker · Nginx · Cloudflare · Oracle Cloud · Linux
 
 ## 📫 Get in Touch
 
