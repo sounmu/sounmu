@@ -1,25 +1,25 @@
-## Hi there 👋
+# Hi, I'm Moonsu 👋
 
-<div align="center">
+A university student hooked on **AI, infrastructure, and open source**.
+I like building things, running them myself, and putting them out in the open.
 
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=sounmu&show_icons=true&count_private=true&theme=discord_old_blurple" height="150px" />
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=sounmu" height="150px" />
-</span>
+---
 
-</div>
+## 🔭 What I'm Into
 
-<!--
-**sounmu/sounmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **AI** — LLM-powered tooling, prompt engineering, and AI-driven workflows
+- **Infrastructure & Self-hosting** — Docker, Cloudflare Tunnel, and turning a home server into my own cloud
+- **Open Source** — building small tools that might help someone, somewhere
 
-Here are some ideas to get you started:
+## 🛠️ Tech I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend** Rust · Axum · Python · FastAPI · PostgreSQL
+**Frontend** Next.js · React · TypeScript · Tailwind CSS
+**Infra** Docker · Nginx · Cloudflare · Oracle Cloud · Linux
+
+## 📫 Get in Touch
+
+- Issues and PRs are always welcome
+- Happy to connect with anyone sharing similar interests
+
+---
